@@ -6,7 +6,6 @@ namespace Tipoff\StaffManagement;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Tipoff\StaffManagement\Commands\StaffManagementCommand;
 
 class StaffManagementServiceProvider extends PackageServiceProvider
 {
