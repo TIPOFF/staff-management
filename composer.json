@@ -44,10 +44,7 @@
         "laravel": {
             "providers": [
                 "Tipoff\\StaffManagement\\StaffManagementServiceProvider"
-            ],
-            "aliases": {
-                "StaffManagement": "Tipoff\\StaffManagement\\StaffManagementFacade"
-            }
+            ]
         }
     },
     "repositories": [
