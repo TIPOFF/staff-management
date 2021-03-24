@@ -5,7 +5,6 @@ declare(strict_types=1);
 namespace Tipoff\Seo\Tests;
 
 use Laravel\Nova\NovaCoreServiceProvider;
-use Spatie\Permission\PermissionServiceProvider;
 use Tipoff\Authorization\AuthorizationServiceProvider;
 use Tipoff\StaffManagement\StaffManagementServiceProvider;
 use Tipoff\Support\SupportServiceProvider;
