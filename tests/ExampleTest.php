@@ -4,8 +4,6 @@ declare(strict_types=1);
 
 namespace Tipoff\StaffManagement\Tests;
 
-use Tipoff\StaffManagement\Tests\TestCase;
-
 class ExampleTest extends TestCase
 {
     /** @test */
