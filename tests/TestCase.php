@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Tipoff\Seo\Tests;
+namespace Tipoff\StaffManagement\Tests;
 
 use Laravel\Nova\NovaCoreServiceProvider;
 use Tipoff\Authorization\AuthorizationServiceProvider;
